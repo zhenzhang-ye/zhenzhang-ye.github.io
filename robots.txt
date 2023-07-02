@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhenzhang-ye.github.io/about/sitemap.xml
+Sitemap: https://zhenzhang-ye.github.io/sitemap.xml
