@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Zhenzhang Ye
-    - name: Languages
-      value: English, German, Chinese
+    - name: Research Interest
+      value: Numerical Optimization, Differential Programming, Variational Method, Machine Learning
 
 - title: Education
   type: time_table
@@ -14,7 +14,6 @@
       year: 2018 - Now
       description:
         - <th>Supervisor:</th> Prof. Dr. Daniel Cremers
-        - <th>Research Interest:</th> Numerical Optimization, Differential Programming, Photometric Stereo.
     - title: Master of Science
       institution: Technical University of Munich, Munich, Germany
       year: 2015 - 2018
@@ -41,16 +40,19 @@
         - <th>Supervisor:</th> <a href='https://www.gpeyre.com/'>Prof. Gabriel Peyre</a>
 
     - title: Research Intern
-      institution: Reality Lab, Oculus, Meta
+      institution: Oculus, Meta
       year: 09.2021 - 12.2021
 
 - title: Publication
   type: list
   contents:
-    - See <a href='/about/assets/pdf/example_pdf.pdf'>pdf</a> for details
+    - See <a href='/about/assets/pdf/cv.pdf'>pdf</a> for details
 
 
-- title: Other Interests
-  type: list
+- title: Other
+  type: map 
   contents:
-    - <th>Hobbies:</th> Jogging, Skiing.
+    - name: Hobbies
+      value: Jogging, Skiing, Photography
+    - name: Languages
+      value: English, German, Chinese
