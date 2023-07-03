@@ -34,10 +34,11 @@
   type: time_table
   contents:
     - title: Visiting Ph.D. student
-      institution: <a href='https://www.math.ens.psl.eu/'>DMA</a>, Ecole Normale Superieure.
+      institution: <a href='https://www.math.ens.psl.eu/'>DMA</a>, &#201;cole Normale Sup&#233;rieure.
       year: 09.2022 - 05.2023
       description:
-        - <th>Supervisor:</th> <a href='https://www.gpeyre.com/'>Prof. Gabriel Peyre</a>
+        - <th>Supervisor:</th> <a href='https://www.gpeyre.com/'>Prof. Gabriel Peyr&#233;</a>
+        - <th>Collaborator:</th> <a href='https://pierreablin.com/'>Pierre Ablin</a>
 
     - title: Research Intern
       institution: Oculus, Meta
