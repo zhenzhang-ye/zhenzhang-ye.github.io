@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 24-02
+date: 2024-02-26
 inline: true
-related_posts: false
+related_posts: true
 ---
 
 Our paper "Enhancing Hypergradients Estimation: A Study of Preconditioning and Reparameterization" is accepted in AISTATS 2024.

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 23-07
+date: 2023-07-23
 inline: true
 related_posts: false
 ---
