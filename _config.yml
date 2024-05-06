@@ -263,7 +263,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Ye]
-  first_name: [Zhenzhang]
+  first_name: [Z]
 
   style: apa
   locale: en
@@ -309,10 +309,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
-scholar:
-  last_name: Ye
-  first_name: Z
 
 
 # -----------------------------------------------------------------------------
