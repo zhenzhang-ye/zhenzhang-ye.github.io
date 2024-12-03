@@ -4,14 +4,23 @@
     - name: Full Name
       value: Zhenzhang Ye
     - name: Research Interest
-      value: Numerical Optimization, Differential Programming, Variational Method, Machine Learning
+      value: Dataset Distillation, Numerical Optimization
 
+- title: Employment
+  type: time_table
+  contents:
+    - title: Postdoc
+      institution: The University of Edinburgh, Edinburgh, UK
+      year: 2024 - now
+      description:
+        - <th>PI:</th> Dr. Hakan Bilen
+        - <th>Group:</th> VICO
 - title: Education
   type: time_table
   contents:
     - title: Ph.D.
       institution: Technical University of Munich, Munich, Germany
-      year: 2018 - Now
+      year: 2018 - 2024
       description:
         - <th>Supervisor:</th> Prof. Dr. Daniel Cremers
     - title: Master of Science

@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    📧zz[dot]ye[at] ed.ac.uk
+    📧zz[dot]ye[at]ed.ac.uk
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
