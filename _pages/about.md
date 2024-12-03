@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cvg.cit.tum.de/'>Computer Vision Group</a><br> <a href='https://www.tum.de/en/'>Technical University of Munich</a>
+subtitle: Postdoc<br> <a href='https://groups.inf.ed.ac.uk/vico/'>Visual Computing Group (VICO)</a>
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    📧zz [dot] ye [at] ed.ac.uk
+    📧zz[dot]ye[at] ed.ac.uk
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
